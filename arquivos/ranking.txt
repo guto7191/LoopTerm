@@ -1,0 +1,8 @@
+luiz 100
+luiz 102
+luiz 103
+luiz 104
+luiz 105
+guto 100
+guto 80
+guto 160
